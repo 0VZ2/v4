@@ -11,10 +11,6 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ'
   },
   {
-    id: 'xboxlcoud',
-    title: 'Xbox cloud gaming',
-    url: 'https://www.xbox.com/en-US/play',
-    image: 'https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ'  {
     id: 'eggycar',
     title: 'Eggy Car',
     url: 'https://assets.3kh0.net/eggycar/index.html',
